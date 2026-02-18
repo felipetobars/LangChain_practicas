@@ -1,0 +1,6 @@
+# Documentos y bases de datos
+*.pdf
+chroma_db*
+
+#Entorno
+.env
